@@ -42,15 +42,6 @@ O mini-curso percorre as principais etapas de um projeto de PLN com Machine Lear
 
 ---
 
-## 📂 Estrutura do Repositório
-
-📦 PLN-com-Machine-Learning
-┣ 📜 PLN com Machine Learning - Da Teoria à Prática.ipynb
-┣ 📂 datasets
-┗ 📜 README.md
-
----
-
 ## 🚀 Como Executar
 
 ### ✔️ Google Colab
